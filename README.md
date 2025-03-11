@@ -49,12 +49,10 @@ receiver_email = "your_email@gmail.com"
 > 💡 **Note:** You can use the same email address for both sending and receiving. Gmail is strongly recommended for best reliability and compatibility.
 
 **📣 For Gmail Users:**
-- You need to use an App Password instead of your regular password
-- To get an App Password:
-  1. Go to your Google Account settings
-  2. Search for "App passwords" or go to Security → App passwords
-  3. Generate a new app password for "Mail"
-  4. Copy and paste this password into the script
+- You first need to enable 2-step verification 🔐
+- Go to this link [myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords) ✨
+- Type your app name and press create
+- Copy and paste this password into the script
 
 ### 5️⃣ Set Up Task Scheduler for Silent Execution
 
