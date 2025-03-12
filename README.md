@@ -34,8 +34,10 @@ pip install opencv-python
 
 ### 3️⃣ Download the Script
 
-1. Save the `webcam_login_monitor.py` script to a folder on your computer
-   (Example: `C:\Scripts\webcam_login_monitor.py`)
+Open Command Prompt and run:
+```bash
+git clone https://github.com/Ns81000/webcam-login-monitor.git
+```
 
 ### 4️⃣ Configure Email Settings
 
